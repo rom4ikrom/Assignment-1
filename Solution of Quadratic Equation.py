@@ -15,7 +15,6 @@ if D > 0:
     print (" x2 is", x2)
 elif D == 0:
     print (" \n Discriminant is \n", D)
-    print ()
     x = (-b) / (2 * a)
     print (" x is ", x)
 elif D < 0:
