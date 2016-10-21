@@ -17,7 +17,7 @@ elif D == 0:
     print (" \n Discriminant is \n", D)
     x = (-b) / (2 * a)
     print (" x is ", x)
-elif D < 0:
+else:
     print (" \n Discriminant is below 0 ")
     print (" The equation has no roots ")
 print (" \n Thank you for using this program. ")
